@@ -1,0 +1,17 @@
+.hide{
+    display: none;
+}
+.show{
+    display: block;
+}
+
+.main{
+    font-size: large;
+    position:absolute;
+    left:35%;
+    top: 10%;
+    font-family:monospace;
+
+}
+
+

@@ -1,0 +1,19 @@
+
+.square-table {
+    width: 100%;
+    overflow: hidden; 
+  }
+  
+  table {
+    width: 50%;
+    border-collapse: collapse;
+  }
+  
+  td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+    width: 33.33%; 
+  }
+  
+ 

@@ -1,0 +1,23 @@
+.hide{
+    display: none;
+}
+
+.show{
+    display: block;
+}
+.shiowdiv{
+    display: block;
+}
+.hidediv{
+    display: none;
+}
+
+
+.HomeDiv{
+    position:absolute;
+    left:35%;
+    text-align: center;
+    border: solid;
+    border-color: cadetblue;
+   
+}
